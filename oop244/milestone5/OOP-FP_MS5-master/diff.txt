@@ -1,0 +1,10 @@
+
+In line number 17 of your output:
+The output should be:
+   3 | 5678   |Sugar               |   6.78|   0|1kg Bags  | 200|
+But your output is: 
+0003 | 5678   |Sugar               |   6.78|   0|1kg Bags  | 200|
+^
+|
+Professors character ASCII code: hex(20), dec(32)
+un-matched character ASCII code: hex(30), dec(48)

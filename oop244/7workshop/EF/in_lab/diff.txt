@@ -1,0 +1,10 @@
+
+In line number 1 of your output:
+The output should be:
+Mom - 20
+But your output is: 
+Mom 20
+    ^
+----|
+Professors character ASCII code: hex(2d), dec(45)
+un-matched character ASCII code: hex(32), dec(50)

@@ -1,0 +1,10 @@
+
+In line number 8 of your output:
+The output should be:
+Enter low : 10
+But your output is: 
+Enter low :  ^C
+            ^
+------------|
+Professors character ASCII code: hex(31), dec(49)
+un-matched character ASCII code: hex(20), dec(32)

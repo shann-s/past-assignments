@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "num args is $#"
+echo "arg 1 is $1"
+shift
+
+echo "num args is $#"
+echo "arg 1 is $1"
+shift
+echo "num args is $#"
+echo "arg 1 is $1"
+shift

@@ -1,0 +1,9 @@
+#!/bin/bash
+#add two numbers with input checking
+if [ $# != 2 ] 
+then 
+	echo "you must give two numbers"
+	exit
+fi
+let ans=$1+$2
+echo "the sum is $ans"

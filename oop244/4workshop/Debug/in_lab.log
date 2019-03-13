@@ -1,0 +1,6 @@
+﻿  Enrollment.cpp
+c:\users\shan\desktop\oop workshop 4\enrollment.cpp(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shan\desktop\oop workshop 4\enrollment.cpp(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  in_lab.vcxproj -> C:\Users\Shan\Desktop\OOP Workshop 4\Debug\in_lab.exe

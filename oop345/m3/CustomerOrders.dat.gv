@@ -1,0 +1,30 @@
+digraph taskgraph { 
+"Fardad Soleimanloo 
+ Dell Precision 3600 "->" CPU "[color=green];
+"Fardad Soleimanloo 
+ Dell Precision 3600 "->" Memory "[color=green];
+"Fardad Soleimanloo 
+ Dell Precision 3600 "->" Memory "[color=green];
+"Fardad Soleimanloo 
+ Dell Precision 3600 "->" "[color=green];
+"Joseph Hughes 
+ HP Z230 "->" CPU "[color=green];
+"Joseph Hughes 
+ HP Z230 "->" Memory"[color=green];
+"Chris Szalwinski 
+ HP Z350 "->" CPU "[color=green];
+"Chris Szalwinski 
+ HP Z350 "->" Memory "[color=green];
+"Chris Szalwinski 
+ HP Z350 "->" SSD "[color=green];
+"Chris Szalwinski 
+ HP Z350 "->" GPU"[color=green];
+"Elliott Coleshill 
+ HP Apollo 1000 "->" CPU "[color=green];
+"Elliott Coleshill 
+ HP Apollo 1000 "->" MEMORY "[color=green];
+"Elliott Coleshill 
+ HP Apollo 1000 "->" Power Supply "[color=green];
+"Elliott Coleshill 
+ HP Apollo 1000 "->" GPU"[color=green];
+}

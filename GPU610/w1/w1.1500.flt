@@ -1,0 +1,9 @@
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  Ts/call  Ts/call  name    
+ 99.70     42.66    42.66                             multiply(float**, float**, float**, int)
+  0.23     42.76     0.10                             init(float**, int)
+  0.07     42.79     0.03                             add(float**, float**, float**, int)
+  0.00     42.79     0.00        1     0.00     0.00  _GLOBAL__sub_I__Z4initPPfi

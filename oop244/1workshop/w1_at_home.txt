@@ -1,0 +1,13 @@
+Creating simple console App using Visual Studio
+
+Step:
+0: Open Visual Studio
+1: Create a project under the file -> new -> project. 
+2: Under "Visual C++" in "Other Languages" go to "win32" -> "Win32 Console Application".
+3: Choose a folder location for the project in the location line at the botom
+4: Follow the win32 application wizard into application settings, make sure "Precompiled header" and "Security Development Lifecycle(SDL) checks are both un choecked.
+5: After finishing the application wizard create your files under source files and header files (Files like .cpp in source and .h in header)
+6. Start coding the files.
+7: After coding press ctrl+f5 to start without debugging to compile and run the code.
+8: Save.
+9: Done.

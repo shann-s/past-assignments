@@ -1,0 +1,4 @@
+#!/usr/bin/perl -l
+# simple perl program to run for a couple of minutes
+foreach (1..1000000000){}
+print "done";

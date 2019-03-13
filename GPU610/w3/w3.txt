@@ -1,0 +1,86 @@
+---0 Arguments---
+Name:                GeForce GTX 960
+Compute Capability:  5.2
+Total Global Memory: 2147483648
+Press any key to continue . . .
+
+---2 Arguments---
+Device with compute capability 6.0 found (index 0)
+Press any key to continue . . .
+
+
+// Device Query and Selection - Workshop 3
+// w3.cpp
+
+#include <iostream>
+#include <cstdlib>
+#include <cstring>
+#include <cuda_runtime.h>
+
+// CUDA run-time header file
+
+void check(cudaError_t t) {
+	cudaError_t error = t;
+
+	if (error != cudaSuccess) {
+		std::cerr << " !!! " << cudaGetErrorName(error) << " !!! \n"
+			<< " !! " << cudaGetErrorString(error) << " !! \n";
+	}
+}
+
+int main(int argc, char** argv) {
+	bool selectADevice = argc == 3;
+	bool listAllDevices = argc == 1;
+	int rc = 0;
+
+	if (selectADevice) {
+		int device;
+		int major = std::atoi(argv[1]); // major version - compute capability 
+		int minor = std::atoi(argv[2]); // minor version - compute capability
+		cudaDeviceProp prop;
+		cudaError_t err;
+										// choose a device close to compute capability maj.min
+										// - fill the properties struct with the user-requested capability
+										// - retrieve the device that is the closest match
+		err = cudaChooseDevice(&device, &prop);
+		check(err);
+										// - retrieve the properties of the selected device
+		err = cudaGetDeviceProperties(&prop, device);
+
+		std::cout << "Device with compute capability " << major << '.' <<
+			minor << " found (index " << device << ')' << std::endl;
+	}
+	else if (listAllDevices) {
+		int noDevices;
+
+		// retrieve the number of installed devices
+		cudaGetDeviceCount(&noDevices);
+		for (int device = 0; device < noDevices; ++device) {
+
+			// retrieve the properties of device i_dev
+			cudaDeviceProp prop;
+			cudaError_t err;
+			err = cudaGetDevice(&device);
+			check(err);
+			err = cudaGetDeviceProperties(&prop, device);
+			check(err);
+			std::cout << "Name:                " <<
+				prop.name<< std::endl;
+			std::cout << "Compute Capability:  " <<
+				prop.major<< '.' <<
+				prop.minor<< std::endl;
+			std::cout << "Total Global Memory: " <<
+				prop.totalGlobalMem<< std::endl;
+		}
+		if (noDevices == 0) {
+			std::cout << "No Device found " << std::endl;
+		}
+	}
+	else {
+		std::cout << "***Incorrect number of arguments***\n";
+		rc = 1;
+	}
+
+	system("pause");
+	return rc;
+}

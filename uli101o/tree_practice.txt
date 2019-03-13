@@ -1,0 +1,61 @@
+
+Use this tree to answer the following questions.  Each question is independent of the others.
+You are user joe.
+/
+└── home
+	└── joe
+		├── blue
+		│   └── green
+		│       └── red
+		│           └── f1
+		└── white
+		    ├── black
+		    │   ├── green
+		    │   └── red
+		    │       └── f2
+		    └── pink
+
+1. Write the command to copy f1 to black/green
+
+relative (pwd = blue/green)
+
+cp red/f1 ../../white/black/green
+
+absolute
+
+cp /home/joe/blue/green/red/f1 /home/joe/white/black/green
+
+
+relative-to-home
+
+cp ~/blue/green/red/f1 ~/white/black/green
+
+
+2. Write the command to copy f2 to pink
+
+relative (pwd = pink)
+
+cp ../black/red/f2 .
+
+absolute
+
+cp /home/joe/white/black/f2 /home/joe/white/pink
+
+relative-to-home
+
+cp ~/white/black/f2 ~/white/pink
+
+3. Write the command to copy black and all its contents to green/red
+
+relative (pwd = blue)
+
+cp ../white/black green/re
+
+absolute
+
+cp /home/joe/white/black /home/joe/blue/green/red
+
+
+relative-to-home
+
+cp ~/white/black ~/blue/green/red

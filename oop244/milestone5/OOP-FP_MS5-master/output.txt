@@ -1,0 +1,74 @@
+Script started on Fri 15 Apr 2016 11:58:27 PM EDT
+sasioson@matrix:~/oop244/milestone5/OOP-FP_MS5-master> ms5for70
+75%submission:
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 1
+
+ Row | SKU    | Product Name       | Cost  | QTY| Unit     |Need| Expiry   
+-----|--------|--------------------|-------|----|----------|----|----------
+   1 | 1234   |Blanket             |  17.70| 400|Boxes     | 400|
+   2 | 2345   |Rice                |  15.99|  40|Bags      | 500|2017/12/23
+0003 | 5678   |Sugar               |   6.78|   0|1kg Bags  | 200|
+   4 | 123    |Beans               |  12.00| 200|kg        | 200|2018/12/22
+0005 | 122    |Bucket              |  11.30| 150|          | 300|
+   6 | 124    |Corn                |   4.00|   0|Packs     | 140|2018/04/03
+0007 | 200    |Sand Bags           |   3.38|  20|packs     |1000|
+   8 | 132    |Banana              |   0.99|   6|Kilos     |  10|2015/05/13
+0009 | 111    |Water Container     |  12.79| 100|packs     |5000|
+---------------------------------------------------------------------------
+Total cost of support: $13165.59
+
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 2
+
+Please enter the SKU: 2345
+
+Sku: 2345
+Name: Rice
+Price: 15.99
+Price after tax: N/A
+Quantity On Hand: 40 Bags
+Quantity Needed: 500
+Expiry date: 2017/12/23
+
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 4
+
+Sku: 1111
+Name: Milk
+Unit: bag
+Taxed? (y/n): n
+Price: 3.99
+Quantity On hand: 10
+Quantity Needed: 100
+Expiry date (YYYY/MM/DD): 2016/4/26
+
+Product added
+
+Segmentation fault
+sasioson@matrix:~/oop244/milestone5/OOP-FP_MS5-master> exit
+exit
+
+Script done on Sat 16 Apr 2016 12:02:29 AM EDT

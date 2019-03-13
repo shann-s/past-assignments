@@ -1,0 +1,94 @@
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\ApplicationInsights.config
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\App_Data\Chinook.mdf
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\App_Data\Chinook_log.ldf
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\WebAppProjectTemplate-v2.dll.config
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\WebAppProjectTemplate-v2.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\WebAppProjectTemplate-v2.pdb
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Antlr3.Runtime.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\AutoMapper.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\EntityFramework.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\EntityFramework.SqlServer.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Microsoft.AI.Web.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Newtonsoft.Json.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\System.Web.Helpers.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\System.Web.Mvc.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\System.Web.Optimization.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\System.Web.Razor.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\System.Web.WebPages.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\WebGrease.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Antlr3.Runtime.pdb
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\AutoMapper.xml
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\EntityFramework.xml
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\EntityFramework.SqlServer.xml
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Microsoft.AI.Web.xml
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\Newtonsoft.Json.xml
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\System.Web.Helpers.xml
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\System.Web.Mvc.xml
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\System.Web.Optimization.xml
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\System.Web.Razor.xml
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\System.Web.WebPages.xml
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csprojResolveAssemblyReference.cache
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\obj\Debug\WebAppProjectTemplate-v2.dll
+C:\Users\Shan\Desktop\Assignment 5\Assignment 5\obj\Debug\WebAppProjectTemplate-v2.pdb
+D:\INT422\Assignment5\Assignment 5\bin\ApplicationInsights.config
+D:\INT422\Assignment5\Assignment 5\bin\App_Data\Chinook.mdf
+D:\INT422\Assignment5\Assignment 5\bin\App_Data\Chinook_log.ldf
+D:\INT422\Assignment5\Assignment 5\bin\WebAppProjectTemplate-v2.dll.config
+D:\INT422\Assignment5\Assignment 5\bin\WebAppProjectTemplate-v2.dll
+D:\INT422\Assignment5\Assignment 5\bin\WebAppProjectTemplate-v2.pdb
+D:\INT422\Assignment5\Assignment 5\bin\Antlr3.Runtime.dll
+D:\INT422\Assignment5\Assignment 5\bin\AutoMapper.dll
+D:\INT422\Assignment5\Assignment 5\bin\EntityFramework.dll
+D:\INT422\Assignment5\Assignment 5\bin\EntityFramework.SqlServer.dll
+D:\INT422\Assignment5\Assignment 5\bin\Microsoft.AI.Agent.Intercept.dll
+D:\INT422\Assignment5\Assignment 5\bin\Microsoft.AI.DependencyCollector.dll
+D:\INT422\Assignment5\Assignment 5\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\INT422\Assignment5\Assignment 5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\INT422\Assignment5\Assignment 5\bin\Microsoft.AI.Web.dll
+D:\INT422\Assignment5\Assignment 5\bin\Microsoft.AI.WindowsServer.dll
+D:\INT422\Assignment5\Assignment 5\bin\Microsoft.ApplicationInsights.dll
+D:\INT422\Assignment5\Assignment 5\bin\Microsoft.Web.Infrastructure.dll
+D:\INT422\Assignment5\Assignment 5\bin\Newtonsoft.Json.dll
+D:\INT422\Assignment5\Assignment 5\bin\System.Web.Helpers.dll
+D:\INT422\Assignment5\Assignment 5\bin\System.Web.Mvc.dll
+D:\INT422\Assignment5\Assignment 5\bin\System.Web.Optimization.dll
+D:\INT422\Assignment5\Assignment 5\bin\System.Web.Razor.dll
+D:\INT422\Assignment5\Assignment 5\bin\System.Web.WebPages.Deployment.dll
+D:\INT422\Assignment5\Assignment 5\bin\System.Web.WebPages.dll
+D:\INT422\Assignment5\Assignment 5\bin\System.Web.WebPages.Razor.dll
+D:\INT422\Assignment5\Assignment 5\bin\WebGrease.dll
+D:\INT422\Assignment5\Assignment 5\bin\Antlr3.Runtime.pdb
+D:\INT422\Assignment5\Assignment 5\bin\AutoMapper.xml
+D:\INT422\Assignment5\Assignment 5\bin\EntityFramework.xml
+D:\INT422\Assignment5\Assignment 5\bin\EntityFramework.SqlServer.xml
+D:\INT422\Assignment5\Assignment 5\bin\Microsoft.AI.DependencyCollector.xml
+D:\INT422\Assignment5\Assignment 5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\INT422\Assignment5\Assignment 5\bin\Microsoft.AI.Web.xml
+D:\INT422\Assignment5\Assignment 5\bin\Microsoft.AI.WindowsServer.xml
+D:\INT422\Assignment5\Assignment 5\bin\Microsoft.ApplicationInsights.xml
+D:\INT422\Assignment5\Assignment 5\bin\Newtonsoft.Json.xml
+D:\INT422\Assignment5\Assignment 5\bin\System.Web.Helpers.xml
+D:\INT422\Assignment5\Assignment 5\bin\System.Web.Mvc.xml
+D:\INT422\Assignment5\Assignment 5\bin\System.Web.Optimization.xml
+D:\INT422\Assignment5\Assignment 5\bin\System.Web.Razor.xml
+D:\INT422\Assignment5\Assignment 5\bin\System.Web.WebPages.xml
+D:\INT422\Assignment5\Assignment 5\bin\System.Web.WebPages.Deployment.xml
+D:\INT422\Assignment5\Assignment 5\bin\System.Web.WebPages.Razor.xml
+D:\INT422\Assignment5\Assignment 5\obj\Debug\Assignment 5.csprojResolveAssemblyReference.cache
+D:\INT422\Assignment5\Assignment 5\obj\Debug\WebAppProjectTemplate-v2.dll
+D:\INT422\Assignment5\Assignment 5\obj\Debug\WebAppProjectTemplate-v2.pdb

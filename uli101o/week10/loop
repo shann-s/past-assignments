@@ -1,0 +1,8 @@
+#!/bin/bash
+# simple loop
+echo "All the arguments are $*"
+for one in $*
+do
+	echo "the next item is $one"
+done
+echo "there were $# arguments"

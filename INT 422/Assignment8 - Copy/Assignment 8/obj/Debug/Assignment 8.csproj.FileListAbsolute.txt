@@ -1,0 +1,588 @@
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\ApplicationInsights.config
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\csc.exe
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\csc.exe.config
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\csc.rsp
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\csi.exe
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\csi.rsp
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\System.AppContext.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\vbc.exe
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\vbc.exe.config
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\vbc.rsp
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\VBCSCompiler.exe
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\WebAppProjectTemplate-v4.dll.config
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\WebAppProjectTemplate-v4.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\WebAppProjectTemplate-v4.pdb
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Antlr3.Runtime.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\AutoMapper.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\EntityFramework.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\EntityFramework.SqlServer.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.AI.Web.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.Security.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Newtonsoft.Json.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Owin.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\System.Web.Helpers.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\System.Web.Mvc.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\System.Web.Optimization.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\System.Web.Razor.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\System.Web.WebPages.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\System.Web.WebPages.Razor.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\WebGrease.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Antlr3.Runtime.pdb
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\AutoMapper.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.AI.Web.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Newtonsoft.Json.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\System.Web.Helpers.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\System.Web.Mvc.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\System.Web.Optimization.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\System.Web.Razor.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\System.Web.WebPages.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\System.Web.WebPages.Razor.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\EntityFramework.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\EntityFramework.SqlServer.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.Security.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\obj\Debug\Assignment 8.csprojResolveAssemblyReference.cache
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\obj\Debug\WebAppProjectTemplate-v4.dll
+C:\Users\sasioson\Desktop\Assignment 8\Assignment 8\obj\Debug\WebAppProjectTemplate-v4.pdb
+T:\Assignment8\Assignment 8\bin\ApplicationInsights.config
+T:\Assignment8\Assignment 8\bin\roslyn\csc.exe
+T:\Assignment8\Assignment 8\bin\roslyn\csc.exe.config
+T:\Assignment8\Assignment 8\bin\roslyn\csc.rsp
+T:\Assignment8\Assignment 8\bin\roslyn\csi.exe
+T:\Assignment8\Assignment 8\bin\roslyn\csi.rsp
+T:\Assignment8\Assignment 8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Assignment8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Assignment8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\Assignment8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Assignment8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\Assignment8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Assignment8\Assignment 8\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Assignment8\Assignment 8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\Assignment8\Assignment 8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\Assignment8\Assignment 8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Assignment8\Assignment 8\bin\roslyn\System.AppContext.dll
+T:\Assignment8\Assignment 8\bin\roslyn\System.Collections.Immutable.dll
+T:\Assignment8\Assignment 8\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\Assignment8\Assignment 8\bin\roslyn\System.IO.FileSystem.dll
+T:\Assignment8\Assignment 8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\Assignment8\Assignment 8\bin\roslyn\System.Reflection.Metadata.dll
+T:\Assignment8\Assignment 8\bin\roslyn\vbc.exe
+T:\Assignment8\Assignment 8\bin\roslyn\vbc.exe.config
+T:\Assignment8\Assignment 8\bin\roslyn\vbc.rsp
+T:\Assignment8\Assignment 8\bin\roslyn\VBCSCompiler.exe
+T:\Assignment8\Assignment 8\bin\roslyn\VBCSCompiler.exe.config
+T:\Assignment8\Assignment 8\bin\WebAppProjectTemplate-v4.dll.config
+T:\Assignment8\Assignment 8\bin\WebAppProjectTemplate-v4.dll
+T:\Assignment8\Assignment 8\bin\WebAppProjectTemplate-v4.pdb
+T:\Assignment8\Assignment 8\bin\Antlr3.Runtime.dll
+T:\Assignment8\Assignment 8\bin\AutoMapper.dll
+T:\Assignment8\Assignment 8\bin\EntityFramework.dll
+T:\Assignment8\Assignment 8\bin\EntityFramework.SqlServer.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.AI.Agent.Intercept.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.AI.DependencyCollector.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.AI.PerfCounterCollector.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.AI.ServerTelemetryChannel.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.AI.Web.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.AI.WindowsServer.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.ApplicationInsights.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.Core.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.Owin.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.Host.SystemWeb.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Cookies.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Facebook.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Google.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.OAuth.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Twitter.dll
+T:\Assignment8\Assignment 8\bin\Microsoft.Web.Infrastructure.dll
+T:\Assignment8\Assignment 8\bin\Newtonsoft.Json.dll
+T:\Assignment8\Assignment 8\bin\Owin.dll
+T:\Assignment8\Assignment 8\bin\System.Web.Helpers.dll
+T:\Assignment8\Assignment 8\bin\System.Web.Mvc.dll
+T:\Assignment8\Assignment 8\bin\System.Web.Optimization.dll
+T:\Assignment8\Assignment 8\bin\System.Web.Razor.dll
+T:\Assignment8\Assignment 8\bin\System.Web.WebPages.Deployment.dll
+T:\Assignment8\Assignment 8\bin\System.Web.WebPages.dll
+T:\Assignment8\Assignment 8\bin\System.Web.WebPages.Razor.dll
+T:\Assignment8\Assignment 8\bin\WebGrease.dll
+T:\Assignment8\Assignment 8\bin\Antlr3.Runtime.pdb
+T:\Assignment8\Assignment 8\bin\AutoMapper.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.AI.DependencyCollector.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.AI.ServerTelemetryChannel.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.AI.Web.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.AI.WindowsServer.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.ApplicationInsights.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Assignment8\Assignment 8\bin\Newtonsoft.Json.xml
+T:\Assignment8\Assignment 8\bin\System.Web.Helpers.xml
+T:\Assignment8\Assignment 8\bin\System.Web.Mvc.xml
+T:\Assignment8\Assignment 8\bin\System.Web.Optimization.xml
+T:\Assignment8\Assignment 8\bin\System.Web.Razor.xml
+T:\Assignment8\Assignment 8\bin\System.Web.WebPages.xml
+T:\Assignment8\Assignment 8\bin\System.Web.WebPages.Deployment.xml
+T:\Assignment8\Assignment 8\bin\System.Web.WebPages.Razor.xml
+T:\Assignment8\Assignment 8\bin\EntityFramework.xml
+T:\Assignment8\Assignment 8\bin\EntityFramework.SqlServer.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.Core.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.Owin.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.Host.SystemWeb.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Facebook.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Cookies.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.OAuth.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Google.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Twitter.xml
+T:\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+T:\Assignment8\Assignment 8\obj\Debug\Assignment 8.csprojResolveAssemblyReference.cache
+T:\Assignment8\Assignment 8\obj\Debug\WebAppProjectTemplate-v4.dll
+T:\Assignment8\Assignment 8\obj\Debug\WebAppProjectTemplate-v4.pdb
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\ApplicationInsights.config
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\csc.exe
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\csc.exe.config
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\csc.rsp
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\csi.exe
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\csi.rsp
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\System.AppContext.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\vbc.exe
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\vbc.exe.config
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\vbc.rsp
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\WebAppProjectTemplate-v4.dll.config
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\WebAppProjectTemplate-v4.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\WebAppProjectTemplate-v4.pdb
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Antlr3.Runtime.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\AutoMapper.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\EntityFramework.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\EntityFramework.SqlServer.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.Web.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Newtonsoft.Json.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Owin.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\System.Web.Helpers.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\System.Web.Mvc.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\System.Web.Optimization.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\System.Web.Razor.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\System.Web.WebPages.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\WebGrease.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Antlr3.Runtime.pdb
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\AutoMapper.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.Web.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Newtonsoft.Json.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\System.Web.Helpers.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\System.Web.Mvc.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\System.Web.Optimization.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\System.Web.Razor.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\System.Web.WebPages.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\EntityFramework.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\EntityFramework.SqlServer.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\obj\Debug\Assignment 8.csprojResolveAssemblyReference.cache
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\obj\Debug\WebAppProjectTemplate-v4.dll
+C:\Users\Shan\Desktop\Assignment8\Assignment 8\obj\Debug\WebAppProjectTemplate-v4.pdb
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\ApplicationInsights.config
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\csc.exe
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\csc.exe.config
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\csc.rsp
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\csi.exe
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\csi.rsp
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\System.AppContext.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\vbc.exe
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\vbc.exe.config
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\vbc.rsp
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\VBCSCompiler.exe
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\WebAppProjectTemplate-v4.dll.config
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\WebAppProjectTemplate-v4.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\WebAppProjectTemplate-v4.pdb
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Antlr3.Runtime.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\AutoMapper.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\EntityFramework.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\EntityFramework.SqlServer.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.Web.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Newtonsoft.Json.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Owin.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\System.Web.Helpers.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\System.Web.Mvc.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\System.Web.Optimization.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\System.Web.Razor.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\System.Web.WebPages.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\System.Web.WebPages.Razor.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\WebGrease.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Antlr3.Runtime.pdb
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\AutoMapper.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.Web.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Newtonsoft.Json.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\System.Web.Helpers.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\System.Web.Mvc.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\System.Web.Optimization.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\System.Web.Razor.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\System.Web.WebPages.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\System.Web.WebPages.Razor.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\EntityFramework.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\EntityFramework.SqlServer.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\obj\Debug\Assignment 8.csprojResolveAssemblyReference.cache
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\obj\Debug\WebAppProjectTemplate-v4.dll
+C:\Users\sasioson\Desktop\Assignment8\Assignment 8\obj\Debug\WebAppProjectTemplate-v4.pdb
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\ApplicationInsights.config
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\csc.exe
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\csc.exe.config
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\csc.rsp
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\csi.exe
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\csi.rsp
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\System.AppContext.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\vbc.exe
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\vbc.exe.config
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\vbc.rsp
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\WebAppProjectTemplate-v4.dll.config
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\WebAppProjectTemplate-v4.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\WebAppProjectTemplate-v4.pdb
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Antlr3.Runtime.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\AutoMapper.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\EntityFramework.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\EntityFramework.SqlServer.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.Web.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Newtonsoft.Json.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Owin.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\System.Web.Helpers.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\System.Web.Mvc.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\System.Web.Optimization.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\System.Web.Razor.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\System.Web.WebPages.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\WebGrease.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Antlr3.Runtime.pdb
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\AutoMapper.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.Web.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Newtonsoft.Json.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\System.Web.Helpers.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\System.Web.Mvc.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\System.Web.Optimization.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\System.Web.Razor.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\System.Web.WebPages.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\EntityFramework.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\EntityFramework.SqlServer.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\obj\Debug\Assignment 8.csprojResolveAssemblyReference.cache
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\obj\Debug\WebAppProjectTemplate-v4.dll
+C:\Users\Shan\Desktop\Assignment8 - Copy\Assignment 8\obj\Debug\WebAppProjectTemplate-v4.pdb
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\ApplicationInsights.config
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\csc.exe
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\csc.exe.config
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\csc.rsp
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\csi.exe
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\csi.rsp
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\System.AppContext.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\System.Collections.Immutable.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\System.IO.FileSystem.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\System.Reflection.Metadata.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\vbc.exe
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\vbc.exe.config
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\vbc.rsp
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\VBCSCompiler.exe
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\roslyn\VBCSCompiler.exe.config
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\WebAppProjectTemplate-v4.dll.config
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\WebAppProjectTemplate-v4.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\WebAppProjectTemplate-v4.pdb
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Antlr3.Runtime.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\AutoMapper.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\EntityFramework.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\EntityFramework.SqlServer.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.Agent.Intercept.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.DependencyCollector.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.Web.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.WindowsServer.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.ApplicationInsights.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.AspNet.Identity.Core.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.Cookies.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.Facebook.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.Google.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.OAuth.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.Twitter.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Web.Infrastructure.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Newtonsoft.Json.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Owin.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\System.Web.Helpers.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\System.Web.Mvc.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\System.Web.Optimization.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\System.Web.Razor.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\System.Web.WebPages.Deployment.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\System.Web.WebPages.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\System.Web.WebPages.Razor.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\WebGrease.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Antlr3.Runtime.pdb
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\AutoMapper.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.DependencyCollector.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.Web.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.AI.WindowsServer.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.ApplicationInsights.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Newtonsoft.Json.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\System.Web.Helpers.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\System.Web.Mvc.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\System.Web.Optimization.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\System.Web.Razor.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\System.Web.WebPages.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\System.Web.WebPages.Deployment.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\System.Web.WebPages.Razor.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\EntityFramework.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\EntityFramework.SqlServer.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.AspNet.Identity.Core.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.Facebook.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.Cookies.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.OAuth.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.Google.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.Twitter.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\INT422\Assignment8 - Copy\Assignment 8\obj\Debug\Assignment 8.csprojResolveAssemblyReference.cache
+D:\INT422\Assignment8 - Copy\Assignment 8\obj\Debug\WebAppProjectTemplate-v4.dll
+D:\INT422\Assignment8 - Copy\Assignment 8\obj\Debug\WebAppProjectTemplate-v4.pdb

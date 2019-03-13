@@ -1,0 +1,5 @@
+#!/bin/bash
+# take user input
+echo -n "Plese enter your name : "
+read name
+echo "welcome $name"

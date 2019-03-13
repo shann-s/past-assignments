@@ -1,0 +1,21 @@
+//file csvread
+//quotes in spread sheet
+//look for first copy 1st "
+//copy 2nd "
+
+//slots number cannot know
+
+//power supply | 4 | motherboard
+//in power supply has 4 slots when that is done go to motherboard
+//install motherboard if it does not pass go to motherboard if it does pass go to cpu
+// motherboard | 3 | CPU | Remove Motherboard
+
+//make graph for task list
+
+- In csv data everytihng is seperated by commas
+use a 2d vector
+vector< vector <string> > vvs;
+
+vvs [0]
+vvs [1] -2nd line
+ 

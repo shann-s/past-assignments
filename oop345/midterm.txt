@@ -1,0 +1,117 @@
+-rule of 5
+-bit print
+
+**rule of 5 example**
+
+#include <iostream>
+#include <string>
+#include <cstring>  //memcpy
+
+using namespace std;
+
+template <typename T>
+
+class X{
+
+	size_t s;
+	T* b; //buffer (well really BRAINS)
+
+	public:
+
+		void print(string label) const{
+
+			cout << label << ":" << (void*) this << "s=" << s << ", b=" << (void*) b << "\n";
+			
+		}
+
+		X() : s(0), b(nullptr){ //zombie
+
+			print("X(" + to_string(s) + ")");
+		}
+		X(size_t size) : s(size), b(new T[s]){ //brains
+
+			print("X(" + to_string(s) + ")");
+		}
+
+		~X(){
+			print("~X()");
+			delete [] b;
+		}
+
+		X& operator= (const X& rhs){
+
+			print("X& operator= (const X& rhs) this->");
+			rhs.print("X& operator= (const X& rhs) this->"):
+			if(this != &rhs){
+
+				delete [] b; //delete our BRAINS
+				b = nullptr;
+
+				s = rhs.s;
+				if(s){
+
+					b = new T[s];
+					memcpy(b, rhs.b, sizeof(T) * s); //deep copy rhs BRAINS
+				}
+			}
+
+			return *this;
+		}
+
+		X(const X& rhs) : s(0), b(nullptr){ //zombie
+
+			*this = rhs;
+
+		}
+
+		X&& operator= (X&& rhs){
+
+			//same as move but
+			//s = rhs.s;  //steal BRAINS
+			//b = rhs.b;
+
+			//rhs.s = 0;	//turn rhs to ZOMBIE
+			//rhs.b = nullptr;
+
+			//}
+			//return move(*this);
+		}
+
+		X(const X&& rhs)
+		: s(0), b(nullptr) {	//zombie
+
+			*this = move(rhs);
+		}
+};
+
+
+int main(int arg, char* argv[])
+{
+
+	X<double> x1, x2(2000000);
+
+	x1.print("x1");
+	x2.print("x2");
+
+	X<double>* p = new X<double>;
+	p->print("pointer p");
+
+	delete p;
+
+	p = new X<double> (4000000);
+	p->print("pointer p");
+	delete p;
+
+	x1 = x2; 
+	x1.print("x1");
+	x2.print("x2");
+
+	X<double> x3(x2);
+
+	x1 = move(x3);
+
+	X<double> x4( move(x1) );
+
+}
+
+//inc

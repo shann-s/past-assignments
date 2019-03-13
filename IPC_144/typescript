@@ -1,0 +1,47 @@
+Script started on Wed 30 Sep 2015 08:21:53 PM EDT
+sasioson@matrix:~/IPC_144> a.out
+Enter a password (7 digits) :
+1356789
+Enter the first digit : 1
+Correct
+Enter the third digit : 5
+Correct
+Enter the sixth digit : 7
+Incorrect number!
+Sorry, You have made 1 mistake.
+sasioson@matrix:~/IPC_144> clear
+[H[2Jsasioson@matrix:~/IPC_144> a.out
+Enter a password (7 digits) :
+1582917
+Enter the first digit : 1
+Correct
+Enter the third digit : 2
+Incorrect number!
+Enter the sixth digit : 97 
+Incorrect number!
+Sorry, you have made 2 mistakes.
+sasioson@matrix:~/IPC_144> a.out
+Enter a password (7 digits) :
+1321432
+Enter the first digit : 9
+Incorrect number
+Enter the third digit : 8
+Incorrect number!
+Enter the sixth digit : 7
+Incorrect number!
+Sorry, You have made 3 mistakes.
+sasioson@matrix:~/IPC_144> clear
+[H[2Jsasioson@matrix:~/IPC_144> a.out
+Enter a password (7 digits) :
+1 1938473
+Enter the first digit : 1
+Correct
+Enter the third digit : 3
+Correct
+Enter the sixth digit : 7
+Correct!
+You have passed the security check!
+sasioson@matrix:~/IPC_144> exit
+exit
+
+Script done on Wed 30 Sep 2015 08:23:31 PM EDT

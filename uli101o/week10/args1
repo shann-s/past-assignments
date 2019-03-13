@@ -1,0 +1,12 @@
+#!/bin/bash
+echo "the collection of arguments is $*"
+echo "the first argument is $1"
+echo "the second argument is $2"
+echo "\$# prints $#"
+echo "\$@ prints $@"
+echo "arg 1 is $1"
+echo "arg 2 is $2"
+
+
+echo -n "arg 1 is $1"
+echo "arg 1 is $1"

@@ -1,0 +1,14 @@
+#!/bin/bash
+if [ $# -lt 2 ]
+then 
+	echo "you must give at least 2 arguments"
+	exit
+fi
+echo -n "What is your name? : "
+read name
+total=0
+for sum in $*
+do
+	let total=$total+$sum
+done
+echo "Hello $name, your total is $total"

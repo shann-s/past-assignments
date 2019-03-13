@@ -1,0 +1,79 @@
+Script started on Tue 03 Nov 2015 12:22:56 PM EST
+sasioson@matrix:~/IPC_144> whoami
+sasioson
+sasioson@matrix:~/IPC_144> cat workshop6.c 
+#include <stdlib.h>
+#include <stdio.h>
+#include <time.h>
+
+int main (void) {
+
+	int sought, throw, a, b, n, total;
+
+	printf("Game of dice\n ==========\n");
+
+	printf("Enter total sought  ");
+	scanf("%d", &sought);
+
+	throw = 0;
+
+	while (sought > 12) {		//Prompts user for a number sought equal to or less than 12
+
+		printf("** Invalid Input! Try Again! **\n");
+
+		printf("Enter total sought  ");
+		scanf("%d", &sought);
+
+	}
+
+	srand(time(NULL));	//Generates random seed number everytime program is run.
+
+	while ( sought != total ) {	//Runs the loop until the sought number is equal to the total of a + b
+
+		throw = throw + 1;
+
+		a = (rand() % 12) + 1;
+
+		b = (rand() % 12) + 1; 
+
+		printf("Result of throw %d : %d + %d\n", throw, a, b);		//Displays result if the number of times thrown and the two random numbers generated.
+
+		total = a + b;
+
+	}
+
+	printf("You got your total in %d throws!\n", throw);		//Displays the number of times the while loop has run with the throws
+
+	return 0;
+}
+sasioson@matrix:~/IPC_144> gcc workshop6.c 
+sasioson@matrix:~/IPC_144> a.out
+Game of dice
+ ==========
+Enter total sought  13
+** Invalid Input! Try Again! **
+Enter total sought  12
+Result of throw 1 : 4 + 6
+Result of throw 2 : 2 + 2
+Result of throw 3 : 2 + 5
+Result of throw 4 : 9 + 3
+You got your total in 4 throws!
+sasioson@matrix:~/IPC_144> a.out
+Game of dice
+ ==========
+Enter total sought  11
+Result of throw 1 : 8 + 10
+Result of throw 2 : 9 + 10
+Result of throw 3 : 2 + 2
+Result of throw 4 : 5 + 3
+Result of throw 5 : 12 + 1
+Result of throw 6 : 1 + 1
+Result of throw 7 : 9 + 8
+Result of throw 8 : 9 + 8
+Result of throw 9 : 9 + 6
+Result of throw 10 : 4 + 7
+You got your total in 10 throws!
+sasioson@matrix:~/IPC_144> exit
+exit
+
+Script done on Tue 03 Nov 2015 12:23:27 PM EST

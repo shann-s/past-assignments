@@ -1,0 +1,66 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <math.h>
+#include <time.h>
+#include <cstdlib>
+#include <curand_kernel.h>
+#include <cuda.h>
+
+#define PI 3.1415926535  //value of pi
+
+__global__ void calculate(float *d_pi, curandState *states, float n) {
+	unsigned int tid = threadIdx.x + blockDim.x * blockIdx.x;
+	float points = 0;
+	float x, y;
+
+	curand_init(1000, tid, 0, &states[tid]);  // 	Initialize CURAND
+
+	for (int i = 0; i < n; i++) {
+		x = curand_uniform(&states[tid]);  //calls random float from 0.0 to 1.0
+		y = curand_uniform(&states[tid]);
+		points += (x*x + y*y <= 1.0f); // count if x & y is in the circle.
+	}
+
+	d_pi[tid] = 4.0f * points / n; // return estimate of pi
+}
+
+int main(int argc, char** argv) {
+	clock_t start, stop;
+	curandState *devStates;
+	int n = std::atoi(argv[1]);
+	float *dev;
+	float *host = new float[n];
+	size_t size = n*sizeof(float);  //memory size of array
+	printf("# of Iterations = %d \n", n);
+	printf("\n------------------------------------------------------------------\n");
+
+	start = clock();
+	//host = (float *)malloc(size);		  // allocate array on host
+ 	cudaMallocHost((void **) &host, size);
+	cudaMalloc((void **)&dev, size);	  // allocate array on device
+
+	cudaMemset(dev, 0, size);
+	cudaMalloc((void **)&devStates, sizeof(curandState));
+
+	
+	calculate <<<1, 1>>>(dev, devStates, n);
+	stop = clock();
+
+	cudaMemcpy(host, dev, size, cudaMemcpyDeviceToHost); // return results 
+
+	float pi_gpu = 0.0f;
+	for (int i = 0; i < 1; i++) {
+		pi_gpu += host[i];
+	}
+			
+	printf("GPU calculation took %f milliseconds.\n", (stop - start) / (float)CLOCKS_PER_SEC);
+	printf("CUDA estimate of PI = %f [error of %f]\n", pi_gpu, pi_gpu - PI);
+
+
+	// deallocate device memory
+	cudaFree(dev);
+	// deallocate host memory
+	delete[] host;
+
+	return 0;
+}

@@ -1,0 +1,12 @@
+#!/bin/bash
+# loop 2
+if [ $# = 0 ]
+then
+	echo "You must give at least one argument"
+	exit
+fi
+
+for one in $*
+do 
+	echo "the next item is $one"
+done

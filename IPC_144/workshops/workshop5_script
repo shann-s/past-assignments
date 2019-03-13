@@ -1,0 +1,120 @@
+Script started on Thu 15 Oct 2015 08:49:30 PM EDT
+sasioson@matrix:~/IPC_144> cat workshop5.c 
+#include <stdio.h>
+
+int get_numerator();
+
+int get_denominator();
+
+int calc_gcd(int x, int y);
+
+void simplify(int *a, int *b);
+
+int main (void) {
+
+	int x, y;
+	int  num, den;
+
+	printf("Fraction Simplifier \n =================== \n");
+	
+	num=get_numerator();	//Stores numerator func value in "num" 
+	den=get_denominator();	//Stores numerator func value in "den"
+
+	x = num;	//Stores the same value of num into x to simplify it. To keep "num" value as original
+	y = den;	//Stores the same valu of den into y to simplify it. Keeping the "den" value original to use for later
+	
+	simplify(&x, &y);	//Calls function and gets the values from x and y to simplify and stores the pointer *a and *b to x and y.
+
+	printf ("%d / %d = %d / %d \n", num, den, x, y);	//Prints the results for the simplified form but also showing the origninal fraction.
+	return 0;
+}
+
+int get_numerator() {		//Prompts the user fo the numerator
+
+	int n;
+
+	printf("Numerator: ");
+	scanf("%d", &n);
+
+	return n;
+
+}
+
+int get_denominator() {		//Prompts the user for the denominator.
+
+	int d;
+
+	printf("Denominator: ");
+	scanf("%d", &d);
+	
+	return d;
+}
+
+int calc_gcd(int x, int y) {
+
+	int temp;
+
+	while (y != 0) {	//Calculates for the greatest common factor.
+
+	temp = x % y;
+	x = y;
+	y = temp;
+	}
+
+	return x;
+
+}
+
+void simplify(int *a, int *b) {
+
+	int temp, gcd,  num, den;	//Declares the parameters being used
+
+	num = *a;	//Stores values of *a into num
+	den = *b;	//Stores values of *b into den
+
+	gcd = calc_gcd(num, den);	//Calls function and uses parameters num and den to calculate. Then store it into "gcd".
+
+	num = num / gcd;	//Calculates for the simplified numerator
+
+	den = den / gcd;	//den divided by greatest common factor 
+
+	*a = num;	//Stores the simplified values to *a and *b pointers.
+	*b = den;
+	return;
+}
+sasioson@matrix:~/IPC_144> gcc workshop5.c 
+sasioson@matrix:~/IPC_144> clear
+[H[2Jsasioson@matrix:~/IPC_144> a.out
+Fraction Simplifier 
+ =================== 
+Numerator: 4
+Denominator: 16
+4 / 16 = 1 / 4 
+sasioson@matrix:~/IPC_144> a.out
+Fraction Simplifier 
+ =================== 
+Numerator: 25
+Denominator: 5
+25 / 5 = 5 / 1 
+sasioson@matrix:~/IPC_144> a.out
+Fraction Simplifier 
+ =================== 
+Numerator: 23
+Denominator: 4
+23 / 4 = 23 / 4 
+sasioson@matrix:~/IPC_144> a.out
+Fraction Simplifier 
+ =================== 
+Numerator: 123
+Denominator: 515
+123 / 515 = 123 / 515 
+sasioson@matrix:~/IPC_144> a.out
+Fraction Simplifier 
+ =================== 
+Numerator: 131
+Denominator: 817
+131 / 817 = 131 / 817 
+sasioson@matrix:~/IPC_144> exit
+exit
+
+Script done on Thu 15 Oct 2015 08:50:22 PM EDT

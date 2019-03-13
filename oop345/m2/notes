@@ -1,0 +1,25 @@
+csvreader.cpp (dump) -> csvdump.cpp (util.h -> csv trim, print, read. util.cpp -> csv trim, print, read)
+
+take csvdump.cpp -> task.cpp
+
+graphiz
+dot -software
+
+graph abc{
+n1 .. n2
+n2 .. n3
+n99;
+}
+//create nodes
+
+digraph nz{
+n1 -> n2
+n2 -> n3
+n99;
+}
+//create with arrows
+//make graph with .gv
+//then to .png
+
+m1 FishTankTasks.dat ','
+

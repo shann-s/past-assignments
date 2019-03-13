@@ -1,0 +1,2 @@
+F:\WSA500\Week_01\AutoMapperInWebAPI\AutoMapperInWebAPI\obj\Debug\AutoMapperInWebAPI.csprojAssemblyReference.cache
+F:\WSA500\Week_01\AutoMapperInWebAPI\AutoMapperInWebAPI\obj\Debug\AutoMapperInWebAPI.csproj.CoreCompileInputs.cache

@@ -1,0 +1,24 @@
+Script started on Thu 17 Mar 2016 01:48:46 PM EDT
+sasioson@matrix:~/oop244/milestone3/OOP-FP_MS3-master> ms3
+Linear: one two 
+As is: 
+one
+two
+
+Enter the folowing: 
+three<ENTER>
+four<ENTER>
+<Ctrl-D>
+
+three
+four
+one two three four 
+one
+two
+three
+four
+
+sasioson@matrix:~/oop244/milestone3/OOP-FP_MS3-master> ms[[[Kexit
+exit
+
+Script done on Thu 17 Mar 2016 01:50:49 PM EDT

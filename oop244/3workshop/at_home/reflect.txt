@@ -1,0 +1,13 @@
+Name: Shan Ariel Sioson
+Class: SEEL
+Prof: Eden Burton
+
+1. What happens to dynamic memory if it is not deallocated?
+- A memory leak will happen if dynamic memory is not deallocated
+
+2.What are the two methods of formatting IO stream data?
+-setf and unsetf for formatting
+
+3.Why was dynamic memory required in the main() function of w3_in_lab.cpp to build the solution? 
+-If static memory was used then the values will not leave the function, with dynamic memory their lifetime will go
+with the whole program

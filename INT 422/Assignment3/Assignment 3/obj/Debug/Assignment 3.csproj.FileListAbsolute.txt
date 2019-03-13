@@ -1,0 +1,106 @@
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\ApplicationInsights.config
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\App_Data\Chinook.mdf
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\App_Data\Chinook_log.ldf
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\WebAppProjectTemplate-v2.dll.config
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\WebAppProjectTemplate-v2.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\WebAppProjectTemplate-v2.pdb
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Antlr3.Runtime.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\AutoMapper.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\EntityFramework.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\EntityFramework.SqlServer.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Microsoft.AI.Web.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Newtonsoft.Json.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.Helpers.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.Mvc.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.Optimization.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.Razor.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.WebPages.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.WebPages.Razor.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\WebGrease.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Antlr3.Runtime.pdb
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\AutoMapper.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\EntityFramework.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\EntityFramework.SqlServer.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Microsoft.AI.Web.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\Newtonsoft.Json.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.Helpers.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.Mvc.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.Optimization.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.Razor.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.WebPages.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.WebPages.Razor.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\obj\Debug\Assignment 3.csprojResolveAssemblyReference.cache
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\obj\Debug\WebAppProjectTemplate-v2.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\obj\Debug\WebAppProjectTemplate-v2.pdb
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Net.Http.Formatting.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.Http.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.Http.WebHost.dll
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Net.Http.Formatting.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.Http.xml
+C:\Users\sasioson\Desktop\Assignment 3\Assignment 3\bin\System.Web.Http.WebHost.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\ApplicationInsights.config
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\App_Data\Chinook.mdf
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\App_Data\Chinook_log.ldf
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\WebAppProjectTemplate-v2.dll.config
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\WebAppProjectTemplate-v2.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\WebAppProjectTemplate-v2.pdb
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Antlr3.Runtime.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\AutoMapper.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\EntityFramework.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\EntityFramework.SqlServer.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Microsoft.AI.Web.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Newtonsoft.Json.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Net.Http.Formatting.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.Helpers.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.Http.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.Http.WebHost.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.Mvc.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.Optimization.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.Razor.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.WebPages.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\WebGrease.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Antlr3.Runtime.pdb
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\AutoMapper.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\EntityFramework.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\EntityFramework.SqlServer.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Microsoft.AI.Web.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\Newtonsoft.Json.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Net.Http.Formatting.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.Http.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.Http.WebHost.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.Helpers.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.Mvc.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.Optimization.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.Razor.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.WebPages.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\obj\Debug\Assignment 3.csprojResolveAssemblyReference.cache
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\obj\Debug\WebAppProjectTemplate-v2.dll
+C:\Users\Shan\Desktop\Assignment3\Assignment 3\obj\Debug\WebAppProjectTemplate-v2.pdb

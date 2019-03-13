@@ -1,0 +1,55 @@
+Script started on Tue 24 Nov 2015 07:57:07 PM EST
+sasioson@matrix:~/IPC_144> whoami
+sasioson
+sasioson@matrix:~/IPC_144> cat workshop8.c 
+#include <stdio.h>
+
+void wordCount(char word[]);
+
+int main(void) {
+
+	char words[100] = {};
+
+	printf("Word Counter\n============\n");
+
+	printf("Text to be analyzed : ");
+	scanf("%100[^\n]", &words);		//Prompts the user for a string no more than 100 characters
+
+	wordCount(words);			//Calls function for word count
+
+
+	return 0;
+}
+
+void wordCount(char word[]){
+
+	int k, b;
+
+	for (k = 0; word[k] != '\0'; k++){	//Runs loop until the end of string with null byte
+
+		if (word[k] == ' ') {		//Looks for blank spaces to add in counter
+
+			b = b + 1;
+
+		}
+
+
+	}
+
+	b = b + 1;				//Adds +1 for the missing space to count the last word
+
+	printf("Word count : %d\n", b);		//Prints the word count
+
+
+}
+sasioson@matrix:~/IPC_144> gcc workshop8.c 
+sasioson@matrix:~/IPC_144> clear
+[H[2Jsasioson@matrix:~/IPC_144> a.out
+Word Counter
+============
+Text to be analyzed : C is not that hard!
+Word count : 5
+sasioson@matrix:~/IPC_144> exit
+exit
+
+Script done on Tue 24 Nov 2015 08:00:45 PM EST

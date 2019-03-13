@@ -1,0 +1,13 @@
+Script started on Tue 06 Oct 2015 08:54:05 PM EDT
+sasioson@matrix:~/IPC_144> gcc workshop4.c 
+sasioson@matrix:~/IPC_144> a.out
+Investment calculator
+ ======================
+Principal : 1000
+Annual rate : 0.06
+No of years : 5
+The future value is : $1338.23
+sasioson@matrix:~/IPC_144> exit
+exit
+
+Script done on Tue 06 Oct 2015 08:54:20 PM EDT

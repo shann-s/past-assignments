@@ -1,0 +1,35 @@
+Worksop 4 - Guidelines
+
+1. Compile and run func_calc.c (on matrix).
+   Read the code and understand how the functions are programmed.
+
+1. Declare the following function protytpes:
+
+   int get_principal();
+   
+   double get_rate();
+   
+   int get_years();
+   
+   double calc_future_value(int base, double rate, int years);
+   
+   void display_result(double answer);
+   
+   
+3. Use the following skeleton of the main program.
+
+int main(void) {
+
+   /* variable declarations */
+   
+   /* display the headings */
+   
+   /* function calls: get_principal(), get_rate(), get_years() */
+   
+   /* function call: calc_future_value() */
+   
+   /* function call: display_result() */
+   
+   return 0;
+ }
+ 

@@ -1,0 +1,8 @@
+total 24
+-r--r--r-- 1 sasioson users  79 Oct  5 12:48 comma_data
+-rw-r--r-- 1 sasioson users  78 Oct  7 14:17 err
+-rw-r--r-- 1 sasioson users   0 Oct  7 14:48 final
+-rw-r--r-- 1 sasioson users  49 Oct  7 14:02 last_phone
+-rw-r--r-- 1 sasioson users 224 Oct  7 14:04 listing
+-rw-r--r-- 1 sasioson users 377 Oct  7 14:55 out
+-r--r--r-- 1 sasioson users  79 Oct  5 12:48 tab_data

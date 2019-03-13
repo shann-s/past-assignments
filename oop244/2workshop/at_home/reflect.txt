@@ -1,0 +1,11 @@
+						Reflection
+Name : Shan Ariel Sioson
+Course : OOP244SEF
+Teacher : Eden Burton
+
+	- In my code I used the function "accountNumber" as an object to place the value for "isValid()" which returns the bool function of 
+"_validAccNumber" where it returns either a false or a true value, then my "display()" function displays the correct print depending on the "_validAccNumber"
+if it is true or false
+
+	- If there is no "If" statement in "isValid()" it would return the default value of 0 which is false in a bool type 
+therefore the error message will be printed everytime the account is not valid.

@@ -1,0 +1,9 @@
+#!/bin/bash
+#input and add two numbers
+echo -n "Enter a number : "
+read x
+echo -n "Enter another number: "
+read y
+echo "You entered $x and $y"
+let z=$x+$y
+echo "the sum is $z"

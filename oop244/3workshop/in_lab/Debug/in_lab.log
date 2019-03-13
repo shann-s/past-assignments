@@ -1,0 +1,4 @@
+﻿  Weather.cpp
+c:\users\shan\desktop\oop-workshop3-master\in_lab\weather.cpp(13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  in_lab.vcxproj -> C:\Users\Shan\Desktop\OOP-Workshop3-master\in_lab\Debug\in_lab.exe

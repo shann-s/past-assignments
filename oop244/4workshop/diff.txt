@@ -1,0 +1,10 @@
+
+In line number 49 of your output:
+The output should be:
+index: 2 - Not valid.
+But your output is: 
+index: 2 - Valid.
+           ^
+-----------|
+Professors character ASCII code: hex(4e), dec(78)
+un-matched character ASCII code: hex(56), dec(86)
